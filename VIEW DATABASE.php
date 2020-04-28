@@ -2,10 +2,7 @@
 <html>
 <head>
 <style>
-<form>
-         <button type="submit" formaction="index.php">HOME</button>
-</form>
-
+         
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -26,7 +23,9 @@ tr:nth-child(even) {
 <body>
 
 <h2>VIEW DATABASE</h2>
-
+<form>
+         <button type="submit" formaction="index.php">HOME</button>
+</form>
 <table>
   <tr>
     <th>Commodity ID</th>
