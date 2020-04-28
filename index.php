@@ -39,7 +39,7 @@
  	<div class="menu">
  	<h2>DEMO FUNCTIONS:</h2>
  	<br>
-     <strong>VIEW DATABASE</strong><a href="ConnectToDB.php" target="_blank" > Click here</a>
+     <strong>VIEW DATABASE</strong><a href="ViewDatabase.php" target="_blank" > Click here</a>
      <br/>
      <strong>INSERT INFORMATION TO DATABASE</strong><a href="InsertData.php" target="_blank" > Click here</a>
      <br/>
