@@ -26,6 +26,9 @@ tr:nth-child(even) {
 <form>
          <button type="submit" formaction="index.php">HOME</button>
 </form>
+<ul>
+    <form name="ViewDatabase" action="ViewDatabase.php" method="POST" >
+</ul> 
 <table>
   <tr>
     <th>Commodity ID</th>
