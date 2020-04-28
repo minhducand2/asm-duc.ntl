@@ -28,8 +28,14 @@ tr:nth-child(even) {
 </form>
 <ul>
     <form name="ViewDatabase" action="ViewDatabase.php" method="POST" >
-</from>
-</ul> 
+<li><strong>Commodity ID:</strong></li>  <li><input type="text" name="empid" /></li>
+<li><strong>Full name:</strong></li>    <li><input type="text" name="empname" /></li>
+<li><strong>Barcode</strong></li><li>    <input type="text" name="empemail" /></li>
+<li><strong>Made in:</strong></li>    <li><input type="text" name="empphone" /></li>
+<li><input type="submit" value="INSERT"></li>
+</form>
+</ul>
+
 <table>
   <tr>
     <th>Commodity ID</th>
