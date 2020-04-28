@@ -28,6 +28,7 @@ tr:nth-child(even) {
 </form>
 <ul>
     <form name="ViewDatabase" action="ViewDatabase.php" method="POST" >
+</from>
 </ul> 
 <table>
   <tr>
